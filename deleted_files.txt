@@ -1,3 +1,2 @@
-Firmware
-Graph/Absolute_error.png
-regression_model_motor.py
+6_Motor_Control 2.pdf
+6_Motor_Control.pdf
